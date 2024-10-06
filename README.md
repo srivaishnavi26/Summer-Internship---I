@@ -1,4 +1,4 @@
-# Celonis Rising Stars Internship
+# Celonis Process Mining Virtual Internship
 ## CSD 2022-2026 BATCH 
 ## ROLL NO : 234G5A3214
 ## Overview
