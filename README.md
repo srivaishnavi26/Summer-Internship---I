@@ -50,13 +50,12 @@ This repository contains materials and documentation related to my internship ex
 - Understood the importance of continuous process improvement.
 
 ## Documentation
-
-- [Documentation File](link-to-your-documentation-file): Contains detailed information about the internship projects, methodologies, and findings.
+Contains detailed information about the internship projects, methodologies, and findings.
 
 ## Presentation
-
-- [Presentation File](link-to-your-presentation-file): This presentation summarizes the key aspects of my internship experience and outcomes.
-
+ This presentation summarizes the key aspects of my internship experience and outcomes.
+## Certificate
+Certificate obtained
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
